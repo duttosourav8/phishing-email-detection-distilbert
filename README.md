@@ -216,6 +216,4 @@ Future improvements:
 
 ---
 
-## Portfolio Summary
 
-Built a phishing email payload detection system using DistilBERT, adversarial-style text augmentation, CLS embeddings, and classical ML classifiers. Reported 98.52% accuracy, 98.14% F1-score, and 0.9993 ROC-AUC in the original notebook evaluation.
