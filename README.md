@@ -21,11 +21,7 @@ This repository contains a clean, GitHub-ready Python implementation for phishin
 
 ## Quick usage
 
-Print documented original notebook results only:
 
-```bash
-python phishing_email_detection_distilbert_correct.py --mode reported
-```
 
 Run DistilBERT embeddings + classical ML benchmark:
 
